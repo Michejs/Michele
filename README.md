@@ -15,7 +15,7 @@ What am I currently doing?:eyes:
 <br>
 <br>
 
-I started writing the first  projects in Angular 13,
+I started writing the first projects in Angular 13,
 alongside Bootstrap 5 and also Typescript, not forgetting Javascript.:chart_with_upwards_trend:
 <br>
 <br>
