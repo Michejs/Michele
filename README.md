@@ -45,6 +45,6 @@ that surrounds my passion and my studies.:rocket::rocket:
 If you want to know more, come and visit me on linkedin.:question: 
 
 
-  <a href="linkedin.com/in/micheleielitro"><img style="width:50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiH0w-gIJMAxwZ3706Xf_GUN-wh3TymU8AMA&usqp=CAU"><a/>
+  <a href="https://www.linkedin.com/in/micheleielitro/"><img style="width:50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiH0w-gIJMAxwZ3706Xf_GUN-wh3TymU8AMA&usqp=CAU"><a/>
 
 
